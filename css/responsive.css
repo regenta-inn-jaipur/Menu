@@ -1,0 +1,63 @@
+@media only screen and (max-width : 767.5px) {
+    .menu_button ul li {
+        width: 100%;
+        padding: 0 0 15px 0;
+    }
+
+    .bg_rejata_menu {
+        width: 100%;
+        padding: 0 0 35px;
+    }
+
+    .logo_main {
+        padding: 14px;
+        background: #993c75;
+        margin: 0 0 20px 0;
+    }
+
+    .logo_main img {
+        width: 110px;
+    }
+
+    .bg_rejata_menu{
+        background-image: none;
+    }
+
+    .bg_rejata_menu2 {
+        background-image: url(../images/bg_regenta.jpg);
+        background-position-x: center;
+        background-position-y: top;
+    }
+}
+
+
+@media only screen and (max-width : 575.5px) {
+    .menu_button ul li {
+        width: 100%;
+        padding: 0 0 15px 0;
+    }
+    .bg_rejata_menu {
+        width: 100%;
+        padding: 0 0 35px;
+    }
+
+    .logo_main {
+        padding: 14px;
+        background: #993c75;
+        margin: 0 0 20px 0;
+    }
+
+    .logo_main img {
+        width: 110px;
+    }
+
+    .bg_rejata_menu{
+        background-image: none;
+    }
+
+    .bg_rejata_menu2 {
+        background-image: url(../images/bg_regenta.jpg);
+        background-position-x: center;
+        background-position-y: top;
+    }
+}

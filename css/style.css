@@ -1,0 +1,120 @@
+.bg_rejata_menu {
+    background-image: url(../images/bg_regenta2.jpg);
+    background-repeat: no-repeat;
+    background-color: #993b74;
+    background-size: 100%;
+    background-position: bottom;
+    float: left;
+    width: 100%;
+    padding: 0px 0 120px;
+    height: 100vh;
+}
+.menu_button {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.logo_main {
+    float: left;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    background: #993c75;
+    margin: 0 0 30px 0;
+}
+
+.logo_main img {
+    width: 200px;
+}
+
+.menu_button ul {
+    float: left;
+    width: 100%;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.menu_button ul li {
+    float: left;
+    width: 25%;
+    position: relative;
+    padding: 0 10px 10px 10px;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+.menu_button ul li button.btn.btn-primary {
+    background: #fff;
+    color: #000 !important;
+    fill: #000;
+    border: none !important;
+    padding: 13px 30px !important;
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 100px;
+    float: left;
+    width: 100%;
+    text-transform: uppercase;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+.menu_images img {
+    float: left;
+    width: 100%;
+}
+
+.menu_images {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+.menu_medel .modal-body {
+    padding: 0;
+    border-radius: 10px;
+}
+
+.menu_images img {
+    float: left;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.menu_medel .modal-dialog {
+    position: relative;
+}
+
+
+
+.menu_medel .modal-dialog .modal-header {
+    position: absolute;
+    top: -16px;
+    right: -11px;
+    z-index: 9;
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+
+.menu_medel .modal-dialog .modal-header button {
+    font-size: 19px;
+    color: #ffffff !important;
+    margin: 0;
+    opacity: 100% !important;
+    z-index: 999 !important;
+    position: relative;
+    border: 2px solid #993c75;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #993c75;
+    box-shadow: rgb(0 0 0 / 81%) 0px 7px 29px 0px;
+    line-height: 0;
+}
